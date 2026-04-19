@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "disease": "mild",
+    "text": "Mild non-proliferative diabetic retinopathy: microaneurysms may be present. Annual screening is recommended."
+  },
+  {
+    "id": 2,
+    "disease": "moderate",
+    "text": "Moderate NPDR: increased microaneurysms, hemorrhages. Consider closer follow-up every 6–12 months."
+  },
+  {
+    "id": 3,
+    "disease": "severe",
+    "text": "Severe NPDR: extensive hemorrhages and venous beading. High risk of progression."
+  },
+  {
+    "id": 4,
+    "disease": "proliferative",
+    "text": "PDR: neovascularization present. Immediate treatment such as laser or anti-VEGF is recommended."
+  }
+]
